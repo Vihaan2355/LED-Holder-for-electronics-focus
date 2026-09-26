@@ -8,3 +8,7 @@ I made this because I just wanted to make something cool that would acctually he
 | Item | Description | Quantity | Unit Cost | Link |
 
 | CAD Parts | Cad parts for the base and the whole project | 3 | Unit Cost | Link |
+
+<img width="122" height="164" alt="Screenshot 2026-09-25 214413" src="https://github.com/user-attachments/assets/f818f768-712e-439d-981c-e4e423ec56e0" />
+
+<img width="371" height="326" alt="Screenshot 2026-09-25 214404" src="https://github.com/user-attachments/assets/8e9fc242-fd27-4e56-92eb-4a98cbe719c4" />
