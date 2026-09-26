@@ -6,4 +6,5 @@ I made this because I just wanted to make something cool that would acctually he
 ## Bill of Materials (BOM)
 
 | Item | Description | Quantity | Unit Cost | Link |
+
 | CAD Parts | Cad parts for the base and the whole project | 3 | Unit Cost | Link |
