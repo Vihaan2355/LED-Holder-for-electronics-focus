@@ -9,7 +9,11 @@ I made this because I just wanted to make something cool that would acctually he
 
 ## Bill of Materials (BOM)
 
-| Item | Description | Quantity | Unit Cost | Link |
+| Item | Quantity | Unit Cost | Link |
 
-| CAD Parts | Cad parts for the base and the whole project | 3 | Unit Cost | Link |
+Screw CAD	1	$6.72	https://jlc3dp.com/3d-printing-quote?from=button
+Main Base/Clamp CAD	1	$15.67	https://jlc3dp.com/3d-printing-quote?from=button
+Top/Pen Light Holder	1	$7.65	https://jlc3dp.com/3d-printing-quote?from=button
+Shipping	1	$15.13	https://jlc3dp.com/3d-printing-quote?from=button
 
+<img width="946" height="421" alt="Screenshot 2026-09-26 114529" src="https://github.com/user-attachments/assets/8ec33b8c-dcc5-4b15-8b02-6af51748f19c" />
