@@ -1,8 +1,8 @@
-Item Name,Qty,Price (total) (USD),Item link,Notes
-Screw CAD,1,$6.72,https://jlc3dp.com/3d-printing-quote?from=button,
-Main Base/Clamp CAD,1,$15.67,https://jlc3dp.com/3d-printing-quote?from=button,
-Top/Pen Light Holder,1,$7.65,https://jlc3dp.com/3d-printing-quote?from=button,
-Shipping,1,$15.13,https://jlc3dp.com/3d-printing-quote?from=button,
+Item Name,Qty,Description, Item link,Notes
+Screw CAD,1, Screw for clamp, works to hold it securely to any table, # printing-legion
+Main Base/Clamp CAD, 1, Main body of the project, has the clamp part at the bottom and Light holder spot on the top, # printing-legion
+Top/Pen Light Holder, 1, Holds the LED pen itself and it is adjustable, # printing-legion
+Shipping,1, Shipping fees will be decided by printer after project is approved, # printing-legion
 ,,,,
 ,,,,
 ,,,,
@@ -18,4 +18,4 @@ Shipping,1,$15.13,https://jlc3dp.com/3d-printing-quote?from=button,
 ,,,,
 ,,,,
 ,,,,
-Total Price (USD):,$45.17,,,
+Total Price (USD):,,,,
