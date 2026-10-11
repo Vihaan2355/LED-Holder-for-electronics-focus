@@ -9,11 +9,14 @@ I made this because I just wanted to make something cool that would acctually he
 
 ## Bill of Materials (BOM)
 
-| Item | Quantity | Unit Cost | Link |
+Item Name,Qty,Description,Item link,Notes
 
-Screw CAD	1	$6.72	https://jlc3dp.com/3d-printing-quote?from=button
-Main Base/Clamp CAD	1	$15.67	https://jlc3dp.com/3d-printing-quote?from=button
-Top/Pen Light Holder	1	$7.65	https://jlc3dp.com/3d-printing-quote?from=button
-Shipping	1	$15.13	https://jlc3dp.com/3d-printing-quote?from=button
+Screw CAD,1,"Screw for clamp, works to hold it securely to any table",# printing-legion,
+Main Base/Clamp CAD,1,"Main body of the project, has the clamp part at the bottom and Light holder spot on the top",# printing-legion,
+Top/Pen Light Holder,1,Holds the LED pen itself and it is adjustable,# printing-legion,all costs will be figured out after project approval
+Shipping,1,Shipping fees will be decided by printer after project is approved,# printing-legion,all costs will be figured out after project approval
+,,,,
+Total Price (USD):,,,,
+
 
 <img width="946" height="421" alt="Screenshot 2026-09-26 114529" src="https://github.com/user-attachments/assets/8ec33b8c-dcc5-4b15-8b02-6af51748f19c" />
