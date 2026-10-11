@@ -19,4 +19,4 @@ Shipping,1,Shipping fees will be decided by printer after project is approved,# 
 Total Price (USD):,,,,
 
 
-<img width="946" height="421" alt="Screenshot 2026-09-26 114529" src="https://github.com/user-attachments/assets/8ec33b8c-dcc5-4b15-8b02-6af51748f19c" />
+
