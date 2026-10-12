@@ -7,16 +7,8 @@ I made this because I just wanted to make something cool that would acctually he
 
 <img width="371" height="326" alt="Screenshot 2026-09-25 214404" src="https://github.com/user-attachments/assets/8e9fc242-fd27-4e56-92eb-4a98cbe719c4" />
 
-## Bill of Materials (BOM)
+The BOM is located in /BOM.csv
 
-Item Name,Qty,Description,Item link,Notes
-
-Screw CAD,1,"Screw for clamp, works to hold it securely to any table",# printing-legion,
-Main Base/Clamp CAD,1,"Main body of the project, has the clamp part at the bottom and Light holder spot on the top",# printing-legion,
-Top/Pen Light Holder,1,Holds the LED pen itself and it is adjustable,# printing-legion,all costs will be figured out after project approval
-Shipping,1,Shipping fees will be decided by printer after project is approved,# printing-legion,all costs will be figured out after project approval
-,,,,
-Total Price (USD):,,,,
 
 
 
